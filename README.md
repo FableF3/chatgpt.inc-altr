@@ -1,4 +1,4 @@
-# Ai_Hub
+# chatgpt.inc-altr
 ## General AI Chatbots
 - [ChatGPT (OpenAI)](https://chat.openai.com) FREE [LIMITED]
 - [Claude (Anthropic)](https://claude.ai) FREE [LIMITED]
